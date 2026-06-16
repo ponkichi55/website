@@ -1,2 +1,0 @@
-Lipsum lipsum dolor
-LipLipLip
